@@ -4,7 +4,9 @@
 * [Triplet mining](https://omoindrot.github.io/triplet-loss#triplet-mining)
 * [Triplet loss with sentence-transformers](https://www.sbert.net/docs/package_reference/losses.html#batchalltripletloss)
 
-* [How to train sentence-transformers - HuggingFace](https://huggingface.co/blog/how-to-train-sèntence-transformers)
+* How to train sentence-transformers - HuggingFace
+    * Older blog - https://huggingface.co/blog/how-to-train-sentence-transformers
+    * Updated blog - https://huggingface.co/blog/train-sentence-transformers
 
 * [Training - Sentence Transformers](https://www.sbert.net/docs/training/overview.html)
 
